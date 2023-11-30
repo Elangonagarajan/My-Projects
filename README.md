@@ -3,7 +3,7 @@
  creating user friendly web application.
  
  Work Flow:
-   1.Creating the Connect to the YouTube API
+   1.Creating the Connection to the YouTube API
    2.Store data in a MongoDB data lake
    3.Migrate data to a SQL data warehouse 
    4.Query the SQL data warehouse
